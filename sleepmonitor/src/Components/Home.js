@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
       <Container className="pt-4">
-        <p>graphs yay!</p>
+        <p>Temporary Placeholder</p>
       </Container>
     </>
   );
